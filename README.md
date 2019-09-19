@@ -8,6 +8,9 @@ $ now.py + 365 days
 ````
 
 ### TODO
+
+- [ ] deb packaging
+- [ ] rpm packaging
 - [ ] error handling
 - [ ] date formatting
 - [ ] more resolution (using [dateutil.relativedelta.relativedelta](https://dateutil.readthedocs.io/en/stable/relativedelta.html))
