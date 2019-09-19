@@ -2,9 +2,15 @@
 
 Example :
 
-```
+```sh
+$ # get current timestamp
+$ now.py
+1568898565
+$ # get timestamp in one year
 $ now.py + 365 days
 1600434781
+$ # copy to clipboard timestamp in one year
+$ now.py + 365 days | pbcopy
 ````
 
 ### TODO
